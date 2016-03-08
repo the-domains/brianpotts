@@ -1,6 +1,6 @@
 name: BrianPotts
 favicon: null
-layout_spectrum: 0.4368121672887355
+layout_spectrum: 1
 typography_spectrum: 0.8021822818554938
 cta:
   domain: null
@@ -21,8 +21,8 @@ color:
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
-  brandStrength: 0.17053280165418983
+  brandStrength: 0.3125
   lightness: 0.35905141942203045
-  saturation: 0.7728099471423775
+  saturation: 0.75
   rhythmicContrast: 0.41293553705327213
 purpose: []
